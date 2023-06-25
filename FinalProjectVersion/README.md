@@ -13,4 +13,5 @@
 
 ## L'ensemble des activités pratiques JEE :
 - Se trouvent dans l'autre compte @Housnaaghzer
+- Lien vers le compte : https://github.com/HousnaAghzer/Aghzer-Housna-JEE/tree/master
 
