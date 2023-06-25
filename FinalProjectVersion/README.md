@@ -2,7 +2,7 @@
 
 ## Description de l'application :
 L'objectif de ce projet est de créer une application web JEE de gestion des comptes bancaires facile à utiliser, sécurisé, maintenable.
-En fait son but principal est de faciliter aux utilisateurs la gestion de leurs comptes facilement, en leur permettant d'effectuer des opérations de débit et de crédit ou transfer, ainsi que de consulter les détails de leurs comptes bancaires.
+En fait son but principal est de faciliter aux utilisateurs la gestion de leurs comptes facilement, en leur permettant d'effectuer des opérations de débit et de crédit ou transfer, ainsi que de consulter les détails de leurs comptes bancaires. En utilisant le framework spring boot coté backend, l'angular coté frontend at mysql pour le stockage de base de données.
 
 ## Partie Backend : 
 - https://github.com/WebProjDeveloper/FinalProjectVersion/tree/master/FinalProjectVersion/ebanking-backend
