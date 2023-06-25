@@ -8,4 +8,9 @@
 - https://github.com/WebProjDeveloper/FinalProjectVersion/tree/master/FinalProjectVersion/digital-banking-web
 - report : https://github.com/WebProjDeveloper/FinalProjectVersion/blob/master/FinalProjectVersion/digital-banking-web/README.md
 
+## Rapport détaillé & Vidéo démonstrative :
+- Voir classroom & le lien vers le drive
+
+## L'ensemble des activités pratiques JEE :
+- Se trouvent dans l'autre compte @Housnaaghzer
 
